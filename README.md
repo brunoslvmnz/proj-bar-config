@@ -1,1 +1,0 @@
-# proj-bar-config
